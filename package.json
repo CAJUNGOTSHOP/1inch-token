@@ -14,7 +14,7 @@
         "solc": "^0.6.12",
         "truffle": "^5.1.58",
         "truffle-flattener": "^1.5.0",
-        "@truffle/hdwallet-provider": "^1.2.0"
+        "@truffle/hdwallet-provider": "^2.1.15"
     },
     "scripts": {
         "test": "truffle test --stacktrace",
